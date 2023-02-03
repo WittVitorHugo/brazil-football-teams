@@ -1,0 +1,37 @@
+
+.navbar * {
+    background-color: transparent;
+}
+
+.search-bar {
+    border: 1px solid #E2E6E8;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 30px;
+    width: 80%;
+    border-radius: 30px;
+}
+
+.search-bar input {
+    border: none;
+    width: 100%;
+    padding: 7.5px;
+    margin-left: 10px;
+    font-size: 1.1em;
+    color: #4A5860;
+}
+
+.search-bar input:focus {
+    outline: none;
+}
+
+.search-bar .icon-search {
+    margin: 0 20px ;
+    color: #E2E6E8;
+}
+
+.search-bar .icon-search:hover {
+    margin: 0 20px ;
+    color: #4A5860;
+}

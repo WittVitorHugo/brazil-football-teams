@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.head {
+    color: #4A5860;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 30px;
+}
+
+.head img {
+    margin-left: 20px;
+    width: 50px;
+}
+
+
+.list {
+    padding: 0 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    row-gap: 20px;
+    column-gap: 15px;
+}
+

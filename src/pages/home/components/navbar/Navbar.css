@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 5rem;
+    background-color: #fff;
+}
+
+
+/* User container */
+
+.btn-signout {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #E2E6E8;
+    margin: 0 2vw;
+}
+
+.btn-signout {
+    border: none;
+}
+
+.btn-signout button:focus {
+    outline: none;
+}
+
+.btn-signout i {
+    transition: 200ms;
+}
+
+.btn-signout i:hover {
+    color: rgba(255, 0, 0, 0.747);
+}
