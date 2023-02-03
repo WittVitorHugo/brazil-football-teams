@@ -1,0 +1,64 @@
+{
+    "response": [
+        {
+            "team": {
+                "id": 6,
+                "name": "Brazil",
+                "code": "BRA",
+                "country": "Brazil",
+                "founded": 1914,
+                "national": true,
+                "logo": "https://media-3.api-sports.io/football/teams/6.png"
+            },
+            "venue": {
+                "id": 204,
+                "name": "Estadio Jornalista Mário Filho (Maracanã)",
+                "address": "Rua Professor Eurico Rabelo, Maracanã",
+                "city": "Rio de Janeiro, Rio de Janeiro",
+                "capacity": 78838,
+                "surface": "grass",
+                "image": "https://media-3.api-sports.io/football/venues/204.png"
+            }
+        },
+        {
+            "team": {
+                "id": 118,
+                "name": "Bahia",
+                "code": "BAH",
+                "country": "Brazil",
+                "founded": 1931,
+                "national": false,
+                "logo": "https://media-3.api-sports.io/football/teams/118.png"
+            },
+            "venue": {
+                "id": 216,
+                "name": "Arena Fonte Nova",
+                "address": "Rua Lions Club, Nazaré",
+                "city": "Salvador, Bahia",
+                "capacity": 56500,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/216.png"
+            }
+        },
+        {
+            "team": {
+                "id": 119,
+                "name": "Internacional",
+                "code": "INT",
+                "country": "Brazil",
+                "founded": 1909,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/119.png"
+            },
+            "venue": {
+                "id": 244,
+                "name": "Estádio José Pinheiro Borda",
+                "address": "Avenida Padre Cacique 891, Bairro Menino Deus",
+                "city": "Porto Alegre, Rio Grande do Sul",
+                "capacity": 50128,
+                "surface": "grass",
+                "image": "https://media-3.api-sports.io/football/venues/244.png"
+            }
+        }
+    ]
+}
